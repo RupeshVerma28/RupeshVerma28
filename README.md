@@ -1,62 +1,57 @@
-# Hi 👋, I'm Ruepsh Verma  
+# Hi there, I'm Rupseh 👋  
 
-🚀 A passionate **Software Developer** and **Tech Enthusiast** from India  
+🚀 **Front-End Developer | UI/UX Designer | Data Analyst | Cybersecurity Enthusiast**  
+
+I’m a passionate developer with experience in building interactive web apps, designing engaging user experiences, and analyzing data to drive insights. Along with coding, I enjoy learning about cybersecurity and problem-solving through algorithms.  
 
 ---
 
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupeshverma28)  
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/ll_tech_truth_4u_ll/)  
-[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@techtruth4u)  
+## 🔥 About Me  
+- 🎓 BCA Graduate from **LNCT University, Bhopal**  
+- 💻 Skilled in **Web Development, UI/UX, Cybersecurity, and Data Analysis**  
+- 🛠️ Working on projects in **MERN Stack, Python, and Data Visualization**  
+- 🌱 Currently exploring **AI/ML concepts & Full-Stack Development**  
+- 🎯 Goal: To craft **impactful digital solutions** with creativity + logic  
 
 ---
 
 ## 🛠️ Tech Stack  
+**Languages & Frameworks:**  
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `React` · `Node.js` · `Python` · `C++` · `Java`  
 
-**Languages & Frameworks**  
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)  
+**Databases & Tools:**  
+`MySQL` · `MongoDB` · `Git & GitHub` · `Power BI` · `Excel` · `Figma`  
 
-**Frameworks & Tools**  
-![Django](https://img.shields.io/badge/Django-darkgreen?logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Photoshop-001e36?logo=adobephotoshop&logoColor=31A8FF)  
+**Other Interests:**  
+`Cyber Security` · `Data Structures & Algorithms` · `UI/UX Design`  
+
+---
+
+## 📌 Featured Projects  
+- 📝 **[Expense Tracker](#)** – A Python Tkinter-based app to manage income/expenses  
+- 🌦️ **[Weather App](#)** – Real-time weather updates using API integration  
+- 🤖 **[ChatBot](#)** – A Python-based chatbot with a custom GUI  
+- 🎮 **[Programming Puzzle Game](#)** – An educational game teaching JavaScript basics  
+
+👉 Check out more on my [Repositories](#)  
 
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RupeshNVerma28&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshNVerma28&layout=compact&theme=tokyonight" height="165"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupseh&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupseh&theme=radical" alt="GitHub Streak" width="48%" />
+</p>  
 
 ---
 
-## 📈 Contributions & Streak  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RupeshNVerma28&theme=tokyonight" alt="streak"/>
-</p>
-
----
-
-## 🎯 About Me  
-
-- 💻 Skilled in **Web Development, Cybersecurity, and Data Analysis**  
-- 🎨 Interested in **UI/UX Design** with a focus on dark themes  
-- 📚 Always learning & contributing to **Open Source Projects**  
-- 🚀 Goal: To grow as a **Full-Stack Developer & Security Expert**  
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="mailto:errupesh28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rupseh-verma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>  
 
 ---
 
-⭐️ From [Rupesh Verma](https://github.com/RupeshNVerma28)
+✨ *“Code + Creativity = Impact.”*  
