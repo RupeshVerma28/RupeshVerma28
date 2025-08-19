@@ -39,9 +39,10 @@ I’m a passionate developer with experience in building interactive web apps, d
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupseh-verma&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupseh-verma&theme=radical" alt="GitHub Streak" width="48%" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=RupeshVerma28&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshVerma28&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
 
 ---
 
