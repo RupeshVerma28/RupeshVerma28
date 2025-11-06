@@ -2,7 +2,10 @@
 
 🚀 **Front-End Developer | UI/UX Designer | Cybersecurity Enthusiast**
 
-## I’m a passionate developer with experience in building interactive web applications and designing engaging user experiences. Besides coding, I enjoy exploring new innovations in the tech world.
+<sub><sup>
+I'm a passionate developer experienced in building interactive web applications and designing engaging user experiences. Besides coding, I enjoy exploring new innovations in the tech world.
+</sup></sub>
+
 ---
 
 ## 🔥 About Me
