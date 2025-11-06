@@ -1,29 +1,30 @@
 # Hi there, I'm Rupseh 👋  
 
-🚀 **Front-End Developer | UI/UX Designer | Data Analyst | Cybersecurity Enthusiast**  
+🚀 **Front-End Developer | UI/UX Designer | Cybersecurity Enthusiast**  
 
 I’m a passionate developer with experience in building interactive web apps, designing engaging user experiences, and analyzing data to drive insights. Along with coding, I enjoy learning about cybersecurity and problem-solving through algorithms.  
 
 ---
 
 ## 🔥 About Me  
-- 🎓 BCA Graduate from **LNCT University, Bhopal**  
+- 🎓 BCA Graduate from **LNCT University, Bhopal**
+- 🧑🏻‍🎓MCA Student At **RGPV University Bhopal**
 - 💻 Skilled in **Web Development, UI/UX, Cybersecurity, and Data Analysis**  
-- 🛠️ Working on projects in **MERN Stack, Python, and Data Visualization**  
-- 🌱 Currently exploring **AI/ML concepts & Full-Stack Development**  
-- 🎯 Goal: To craft **impactful digital solutions** with creativity + logic  
+- 🛠️ Working on projects in **MERN Stack, Python and Cybersecurity Tools**  
+- 🌱 Currently exploring **Cybersecurity concepts & Full-Stack Development**  
+- 🎯 Goal: To craft **impactful digital solutions** with creativity + logic  + Security
 
 ---
 
 ## 🛠️ Tech Stack  
 **Languages & Frameworks:**  
-`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `React` · `Node.js` · `Python` · `C++` · `Java`  
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `React` · `Python` 
 
 **Databases & Tools:**  
-`MySQL` · `MongoDB` · `Git & GitHub` · `Power BI` · `Excel` · `Figma`  
+`MySQL` · `MongoDB` · `Git & GitHub`  · `Netlify` · `Figma`  
 
 **Other Interests:**  
-`Cyber Security` · `Data Structures & Algorithms` · `UI/UX Design`  
+`Cyber Security` · `Data Structures & Algorithms` · `UI/UX Design` . `SASS Development `
 
 ---
 
