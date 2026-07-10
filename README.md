@@ -188,20 +188,16 @@ https://expo.dev/accounts/developer75/projects/workspace/builds/18e65fc8-d347-41
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RupeshVerma28&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RupeshVerma28&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshVerma28&theme=tokyonight"/>
-
+  <img width="48%" src="https://streak-stats.demolab.com?user=RupeshVerma28&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=RupeshVerma28&theme=tokyo-night"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RupeshVerma28&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
