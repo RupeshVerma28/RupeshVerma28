@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh Verma</h1>
 
 <h3 align="center">
-AI-Native Product Engineer • Full Stack Developer • Cybersecurity Enthusiast • SaaS Builder
+Aspiring Full Stack Developer • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
@@ -84,16 +84,6 @@ I enjoy transforming ideas into products that people genuinely use.
 
 ---
 
-## Interests
-
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
-- 🚀 SaaS Development
-- 📱 Product Engineering
-- 🎨 UI/UX Design
-- 📈 SEO & Digital Marketing
-
----
 
 # 🚀 Featured Projects
 
@@ -202,18 +192,6 @@ https://expo.dev/accounts/developer75/projects/workspace/builds/18e65fc8-d347-41
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Become an AI-Native Product Engineer
-- 💼 Land a Remote Software Engineering Role
-- 🌍 Build Profitable SaaS Products
-- 📈 Grow Technical Content Platform
-- 🛡 Strengthen Cybersecurity Skills
-- ☁️ Master Cloud Technologies
-- 🤖 Build AI-powered Applications
-- ⭐ Contribute to Open Source
-
----
 
 # 🤝 Let's Connect
 
